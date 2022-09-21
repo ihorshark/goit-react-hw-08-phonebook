@@ -1,0 +1,15 @@
+.filter {
+  margin: 15px;
+}
+
+.filter_label {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: inherit;
+}
+
+.input {
+  margin-top: 8px;
+  height: 22px;
+}

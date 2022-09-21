@@ -1,0 +1,23 @@
+.contactList {
+  padding: 0;
+}
+
+.contactItem {
+  list-style: none;
+  box-sizing: border-box;
+  padding: 0px;
+}
+
+.contact {
+  font-size: 18px;
+}
+
+.btn_del {
+  width: 66px;
+  height: 28px;
+}
+
+.btn_del:hover {
+  background: red;
+  color: #ffffff;
+}

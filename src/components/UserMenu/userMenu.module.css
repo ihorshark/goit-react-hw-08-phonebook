@@ -1,0 +1,12 @@
+.account {
+  margin-right: 8px;
+  font-size: 22px;
+}
+
+.button {
+  font-size: 18px;
+}
+
+.button:hover {
+  background-color: red;
+}
